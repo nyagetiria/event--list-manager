@@ -5,7 +5,7 @@ A simple web app to manage guest lists for an event.
 ## Features
 
 - Add guests with names and categories (Friend, Family, Colleague)
-- Limit guest list to 10 people
+- Limit guest list to 50 people
 - Timestamp shown when guest is added
 - Toggle RSVP status between **Attending** and **Not Attending**
 - Edit guest names
